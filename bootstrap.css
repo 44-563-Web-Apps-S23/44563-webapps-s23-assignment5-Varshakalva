@@ -1,0 +1,21 @@
+ 
+.table { font-style:italic;
+   border: solid 3px;
+   table-hover: 3px; }
+
+   .table:hover
+    {  ascent-override: active;
+      color: orangered; }
+
+     .A { background-color: green ; }
+     .B { background-color: yellow ; }
+     .C { background-color: cornflowerblue ; }
+     .D { background-color: yellowgreen ; }
+     .E { background-color: red ; }
+     .F { background-color: white ; }
+     .G { background-color: skyblue ; }
+
+     .navbar { background-color: aquamarine;}
+                           
+
+   
